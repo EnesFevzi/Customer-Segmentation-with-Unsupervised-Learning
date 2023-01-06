@@ -1,19 +1,18 @@
 # Customer-Segmentation-with-Unsupervised-Learning
 
 
-###############################################################
 # Gözetimsiz Öğrenme ile Müşteri Segmentasyonu (Customer Segmentation with Unsupervised Learning)
-###############################################################
 
-###############################################################
+
+
 # İş Problemi (Business Problem)
-###############################################################
+
 
 Unsupervised Learning yöntemleriyle (Kmeans, Hierarchical Clustering )  müşteriler kümelere ayrılıp ve davranışları gözlemlenmek istenmektedir.
 
-###############################################################
+
 # Veri Seti Hikayesi
-###############################################################
+
 
 Veri seti son alışverişlerini 2020 - 2021 yıllarında OmniChannel(hem online hem offline) olarak yapan müşterilerin geçmiş alışveriş davranışlarından
 elde edilen bilgilerden oluşmaktadır.
@@ -35,15 +34,15 @@ interested_in_categories_12 : Müşterinin son 12 ayda alışveriş yaptığı k
 store_type : 3 farklı companyi ifade eder. A company'sinden alışveriş yapan kişi B'dende yaptı ise A,B şeklinde yazılmıştır.
 
 
-###############################################################
-# GÖREVLER
-###############################################################
 
-# GÖREV 1: Veriyi Hazırlama
+# GÖREVLER
+
+
+GÖREV 1: Veriyi Hazırlama
   
 
-# GÖREV 2: K-Means ile Müşteri Segmentasyonu
+GÖREV 2: K-Means ile Müşteri Segmentasyonu
    
 
-# GÖREV 3: Hierarchical Clustering ile Müşteri Segmentasyonu
+GÖREV 3: Hierarchical Clustering ile Müşteri Segmentasyonu
  
